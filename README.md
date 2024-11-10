@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Engineer** 
 
 ### 📈 GitHub Stats
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocosta&show_icons=true&theme=radical)
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarcocosta&show_icons=true&theme=radical)
 
 ---
 
